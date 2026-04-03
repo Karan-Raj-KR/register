@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "Karan-Raj-KR",
+        "email": "karanrajkr2008@gmail.com"
+    },
+    "records": {
+        "TXT": ["vc-domain-verify=app.vercel.com,222a9ee994a40eaf15e7"]
+    }
+}
